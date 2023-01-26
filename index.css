@@ -1,0 +1,33 @@
+body {
+  background-color: cadetblue;
+}
+h1 {
+  background-color: yellowgreen;
+  border: 1px solid black;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 40px;
+  margin: 31px;
+  padding: 13px;
+}
+#textbox {
+  font-size: 20px;
+  position: absolute;
+  left: 450px;
+  border: 1px solid blue;
+  background-color: bisque;
+}
+p {
+  width: 338px;
+  border: 1px solid bisque;
+  background-color: yellowgreen;
+  position: absolute;
+  top: 394px;
+  left: 458px;
+  font-size: 20px;
+  font-weight: bold;
+}
+span {
+  font-size: 40px;
+  color: red;
+}
